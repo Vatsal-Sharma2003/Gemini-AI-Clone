@@ -9,7 +9,7 @@ let userMessage = null;
 let isResponseGenerating = false;
 
 // API configuration
-const API_KEY = "AIzaSyA-chmRB6CO0VVDCJUSaklTfz6ziImsr4A";  //vatsal API key(please not use it)
+const API_KEY = "AIzaSyA0EyVpujjse1he06BJ41bQk-hchxqwU5U";  //vatsal API key(please not use it)
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${API_KEY}`;
 
 // Load theme and chat data from local storage on page load
